@@ -1,4 +1,4 @@
-Project Overview
+**Project Overview:**
 This project aims to predict income levels based on demographic and professional features like age, job role, education, and more. Using machine learning, particularly the K-Nearest Neighbors (KNN) algorithm, this project investigates the factors that contribute to income disparities. It is designed to explore applications in analyzing income equality and identifying insights that could support fair pay policies.
 
 What the Project Does
