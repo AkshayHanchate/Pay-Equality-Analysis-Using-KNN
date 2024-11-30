@@ -4,5 +4,5 @@ This project aims to predict income levels based on demographic and professional
 **What the Project Does:**
 Data Preprocessing: The dataset is preprocessed, with categorical variables encoded, and numerical features scaled. SMOTE is used to balance classes in the training data.
 
-Model Training: The KNN model is trained on the balanced dataset to improve income classification performance.
+**Model Training:** The KNN model is trained on the balanced dataset to improve income classification performance.
 Evaluation Metrics: The model’s performance is assessed using accuracy, confusion matrix, precision, recall, and F1 score.
